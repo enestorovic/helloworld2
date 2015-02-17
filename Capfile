@@ -30,4 +30,4 @@ require 'capistrano/rails'
 # If you are using rbenv add these lines:
 require 'capistrano/rbenv'
 set :rbenv_type, :user # or :system, depends on your rbenv setup
-set :rbenv_ruby, '2.1.3p242 (2014-09-19 revision 47630) [x86_64-linux]'
+set :rbenv_ruby, '2.1.3'
